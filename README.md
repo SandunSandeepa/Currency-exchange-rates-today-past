@@ -1,4 +1,4 @@
-# Currency-exchange-rates-today-past
+# Currency exchange rates today & past
 
 This is a fully functional Flutter Currency Converterv Web Application connected to Node.js backend. You can now: 
 
